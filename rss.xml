@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[actionstar]]></title>
+        <description><![CDATA[actionstar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 01:17:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pulp Gangster the Movie]]></title>
+            <description><![CDATA[<article><h1>Pulp Gangster the Movie</h1><p>Pulp Gangster The Movie</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89ceea113b11c649f32371d252e0ca7c88a57240.png"></article>]]></description>
+            <link>undefinedpulp-gangster-the-movie/index.html</link>
+            <guid isPermaLink="false">c40e3a03-9be2-417a-b227-5da5ef68cdea</guid>
+            <pubDate>Sat, 02 Jan 2016 01:17:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
