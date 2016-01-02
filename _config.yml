@@ -1,28 +1,40 @@
-name: actionstar
 favicon: null
-layout_spectrum: 0.99627
-typography_spectrum: 0.99589
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: actionstar
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.99589
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9790547
+analytics:
+  twitter: null
+  google: null
+  facebook: null
