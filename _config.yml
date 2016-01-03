@@ -1,4 +1,5 @@
-layout_spectrum: 0.962943
+favicon: null
+name: actionstar
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#F4F482'
   rhythmicContrast: 0.622449
 typography_spectrum: 0.9167562
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.8276047
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: actionstar
+cta:
+  bucket: null
+  version: null
+  domain: null
