@@ -1,40 +1,40 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5
   brandStrength: 0.5
-  lightness: 0
+  rhythmicContrast: 0.622449
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  rhythmicContrast: 0.622449
-typography_spectrum: 0.9167562
-layout_spectrum: 0
+  lightness: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
 name: actionstar
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6654136
+layout_spectrum: 0
